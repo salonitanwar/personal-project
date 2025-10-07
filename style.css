@@ -9,16 +9,16 @@ html,body{
 }
 
 .card{
-    width: 22%;
-    height:60%;
-    background-color: rgb(250, 247, 245);
-    box-shadow: -30px -30px 40px rgb(244, 245, 239);
-    position: absolute;
-    left: 1500px;
-    top:300px  
+    width: 700PX;
+    height: 1100px;
+    background-color: rgb(226, 234, 239);
+    box-shadow: -30px -30px 40px rgb(106, 193, 237);
+    margin-left: 1400PX;
+    margin-top: 100px;
+     
 }
 .card:hover{
-    box-shadow: -30px -30px 40px rgb(98, 184, 241);
+    box-shadow: -30px -30px 40px rgb(115, 163, 195);
 }
 .card img{
     width: 400px;
@@ -26,35 +26,33 @@ html,body{
     object-fit: cover;
     border-radius: 50%;
     box-shadow: -10px -20px 30px rgb(98, 184, 241);
-    position: absolute;
-    left: 180px;
-    top:80px;
+    margin-left: 150px;
+    margin-top: 80px;
+    
 }
 .card img:hover{
     box-shadow: -10px -20px 30px rgb(72, 153, 208);
 }
 .card h1{
-    position: absolute;
-    left: 180px;
-    top:550px;
-    font-size: 70px;
+    margin-left: 140PX;
+    margin-top: 100px;
+    font-size: 80px;
     text-transform: capitalize;
     color: rgb(14, 14, 14);
+    font-style: italic;
 
 }
 .card p{
+    margin-left: 160PX;
+    margin-top: 30px;
      color: rgb(5, 5, 5);
-    position: absolute;
-    left: 140px;
-    top:650px;
-    font-size: 70px;
+    font-size: 60px;
     text-transform: capitalize;
 
 }
 .card button{
-    position: absolute;
-    left: 200px;
-    top:780px;
+    margin-left: 180PX;
+    margin-top: 100px;
     font-size: 70px;
     text-transform: capitalize;
     padding: 40px 70px;
