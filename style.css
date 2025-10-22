@@ -48,9 +48,9 @@ body{
 
 
 .card h1{
-    margin-left: 2em;
+    margin-left: 5em;
     margin-top: 1em;
-    font-size: 2em;
+    font-size: 1.3em;
     text-transform: capitalize;
     font-style: italic;
     background-image: url("https://media.giphy.com/media/14nmg7SMF1KSUo/giphy.gif");
@@ -59,17 +59,17 @@ body{
 
 }
 .card p{
-    margin-left:1.9em ;
+    margin-left:4em ;
     margin-top: 0.4em;
      color: rgb(5, 5, 5);
-    font-size: 1.7em;
+    font-size: 1.3em;
     text-transform: capitalize;
 
 }
 .card button{
-    margin-left: 3.1em;
+    margin-left: 8em;
     margin-top: 1em;
-    font-size: 2em;
+    font-size: 1em;
     text-transform: capitalize;
     padding:0.3em 0.5em;
     border-radius: 3em;
