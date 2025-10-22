@@ -59,7 +59,7 @@ body{
 
 }
 .card p{
-    margin-left:1.4em ;
+    margin-left:1.9em ;
     margin-top: 0.4em;
      color: rgb(5, 5, 5);
     font-size: 1.7em;
@@ -67,7 +67,7 @@ body{
 
 }
 .card button{
-    margin-left: 3em;
+    margin-left: 3.1em;
     margin-top: 1em;
     font-size: 2em;
     text-transform: capitalize;
@@ -87,7 +87,6 @@ body{
     to{transform:scale(1.1);}
 }
 button,a{
-    
     color: aliceblue;
     text-decoration: none;
 }
