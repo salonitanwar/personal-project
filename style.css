@@ -13,7 +13,7 @@ body{
     justify-items: center;
 }
 .card{
-    width: 28em;
+    width: 20em;
     height: 28em;
     background-color: rgb(226, 234, 239);
     margin-top: 1em;
@@ -35,7 +35,7 @@ body{
     height: 10em;
     object-fit: cover;
     border-radius: 50em;
-    margin-left: 10em;
+    margin-left: 5em;
     margin-top: 2em;
     animation: cd;
     animation-duration: 1s;
@@ -48,7 +48,7 @@ body{
 
 
 .card h1{
-    margin-left: 5em;
+    margin-left: 2em;
     margin-top: 1em;
     font-size: 2em;
     text-transform: capitalize;
@@ -59,7 +59,7 @@ body{
 
 }
 .card p{
-    margin-left:5em ;
+    margin-left:1.4em ;
     margin-top: 0.4em;
      color: rgb(5, 5, 5);
     font-size: 1.7em;
@@ -67,7 +67,7 @@ body{
 
 }
 .card button{
-    margin-left: 6em;
+    margin-left: 3em;
     margin-top: 1em;
     font-size: 2em;
     text-transform: capitalize;
